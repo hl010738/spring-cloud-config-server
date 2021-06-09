@@ -7,6 +7,7 @@ spring:
           search-paths: config
           username: hl010738@126.com
           password: she010738
+#          指定本地仓库目录
 #          basedir: /Users/zhanglong/Desktop/git-repo
   application:
     name: config-server

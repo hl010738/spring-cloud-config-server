@@ -20,6 +20,7 @@ dependencies {
             "org.jetbrains.kotlin:kotlin-stdlib-jdk8",
             "com.fasterxml.jackson.module:jackson-module-kotlin",
             "org.springframework.cloud:spring-cloud-config-server:3.0.3"
+            //"org.springframework.boot:spring-boot-starter-security:2.5.0"
     )
 }
 
